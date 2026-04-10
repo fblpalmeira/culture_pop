@@ -2,7 +2,7 @@
 
 # #30DayChartChallenge_2026
 
-# Day 10 (10 April 2023) | Culture Pop
+# Day 10 (10 April 2026) | Culture Pop
 
 - [Script `.R`](https://github.com/fblpalmeira/jaguar_preys_traptimes/blob/main/data/jaguar_preys_traptimes_setup.R)
 
