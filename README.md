@@ -10,6 +10,3 @@ Culture pop is an excellent source of data for creating data visualizations. For
 
 <img src="https://github.com/fblpalmeira/culture_pop/blob/main/rhcp_timeline2.png">
 
-Reference:
-
-[Wikipedia](https://pt.wikipedia.org/wiki/Red_Hot_Chili_Peppers)
